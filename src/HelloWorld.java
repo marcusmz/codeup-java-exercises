@@ -3,12 +3,12 @@ public class HelloWorld {
         System.out.println("Hello World");
 
 //        1. Create an int variable named myFavoriteNumber and assign your favorite number to it, then print it out to the console.
-        int myFavoriteNumber = 5;
-        System.out.println(myFavoriteNumber);
+//        int myFavoriteNumber = 5;
+//        System.out.println(myFavoriteNumber);
 
 //        2. Create a String variable named myString and assign a string value to it, then print the variable out to the console.
-        String myString = "Marcus Munoz";
-        System.out.println(myString);
+//        String myString = "Marcus Munoz";
+//        System.out.println(myString);
 
 //        3. Change your code to assign a character value to myString. What do you notice?
 //            -when changed to char it was unable to run the code because the string output could not be converted
@@ -18,8 +18,8 @@ public class HelloWorld {
 
 //        5. Declare a long variable named myNumber, but do not assign anything to it. Next try to print out myNumber to the console. What happens?
 //        -illegal start of expression error
-        float myNumber = 3.14F;
-        System.out.println(myNumber);
+//        float myNumber = 3.14F;
+//        System.out.println(myNumber);
 
 //        6. Change your code to assign the value 3.14 to myNumber. What do you notice?
 //        -java: incompatible types: possible lossy conversion from double to long
@@ -43,10 +43,10 @@ public class HelloWorld {
 //        System.out.println(x);
 //        System.out.println(x);
 
-        int x = 5;
-        System.out.println(++x);
-        System.out.println(x);
-        System.out.println(x);
+//        int x = 5;
+//        System.out.println(++x);
+//        System.out.println(x);
+//        System.out.println(x);
 
 //        What is the difference between the above code blocks? Explain why the code outputs what it does.
 //        -first code block runs 5 and then adds 1 tp the number due to the increment operator
@@ -77,18 +77,18 @@ public class HelloWorld {
 
 //        13. Rewrite the following expressions using the relevant shorthand assignment operators:
 
-        int x = 4;
-        x = x + 5;
+//        int x = 4;
+//        x = x + 5;
 //        x += 5;
-        int x = 3;
-        int y = 4;
-        y = y * x;
+//        int x = 3;
+//        int y = 4;
+//        y = y * x;
 //            y *= 3;
-        int x = 10;
-        int y = 2;
-        x = x / y;
+//        int x = 10;
+//        int y = 2;
+//        x = x / y;
 //        x /= y;
-        y = y - x;
+//        y = y - x;
 //        y -= x;
 
 //        14. What happens if you assign a value to a numerical variable that is larger (or smaller) than the type can hold? What happens if you increment a numeric variable past the type's capacity?
