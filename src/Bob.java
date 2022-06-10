@@ -1,9 +1,9 @@
-import java.util.Scanner;
-
+//import java.util.Scanner;
+//
 //public class Bob {
 //    public static void main(String[] args){
-
-
+//
+//
 //        Bob is a lackadaisical teenager. In conversation, his responses are very limited.
 //
 //        Bob answers 'Sure.' if you ask him a question. (the input ends with a question mark)
@@ -15,6 +15,7 @@ import java.util.Scanner;
 //        Scanner sc = new Scanner(System.in);
 //        System.out.println("Say something to Bob!");
 //        String userInput = sc.nextLine();
+//        String yooo = 9;
 //
 //        // ends with ?
 //        if (userInput.endsWith("?")) {
