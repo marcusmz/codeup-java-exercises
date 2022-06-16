@@ -1,5 +1,3 @@
-//package oop;
-
 //public class Person {
 //
 //    private String name;

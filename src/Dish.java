@@ -1,5 +1,3 @@
-package oop;
-
 public class Dish {
 
     public int costInCents;
